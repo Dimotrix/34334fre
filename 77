@@ -146,7 +146,7 @@ elseif UserName == "Hekm1112" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Wikk9974" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Leezfros7579" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -164,7 +164,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Tibbe9532" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Leezfros7579" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -182,7 +182,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Plikfu4224" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Leezfros7579" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -200,7 +200,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Storsn6465" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Leezfros7579" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -218,7 +218,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Blastby7970" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Thisc7492" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -236,7 +236,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Storb7212" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Thisc7492" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -254,7 +254,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Embenee6267" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Thisc7492" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -272,7 +272,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Gearwhir9622" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Thisc7492" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -290,7 +290,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Fastsn8384" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Hronfro6379" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -308,7 +308,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Witktz0745" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Hronfro6379" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -326,7 +326,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Thiscra6656" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Hronfro6379" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -344,7 +344,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Kranno0652" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Hronfro6379" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -362,7 +362,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Kipwhir7708" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Crazycr2810" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -380,7 +380,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Brikbe1005" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Crazycr2810" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -398,7 +398,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Sonibe0986" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Crazycr2810" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -416,7 +416,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Drokne4521" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Crazycr2810" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -434,7 +434,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Witks1072" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Crazyneedle0236" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -452,7 +452,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Silentfixxit8322" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Crazyneedle0236" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -470,7 +470,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Zere8217" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Crazyneedle0236" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -488,7 +488,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Slizvix0229" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Crazyneedle0236" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -506,7 +506,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Mervix0261" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Klabemm2514" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -524,7 +524,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Plingchoo4036" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Klabemm2514" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -542,7 +542,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Aedo6435" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Klabemm2514" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -560,7 +560,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Crankcrank0560" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Klabemm2514" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -578,7 +578,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Rustcog6152" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Fizzberry0514" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -596,7 +596,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Brikko6423" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Fizzberry0514" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -614,7 +614,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Edxt4852" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Fizzberry0514" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -632,7 +632,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Crazyneedle6663" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Fizzberry0514" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -650,7 +650,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Fliklag5589" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Hekm1112" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -668,7 +668,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Gorsh2681" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Hekm1112" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -686,7 +686,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Xanfe3942" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Hekm1112" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
@@ -704,7 +704,7 @@ elseif UserName == "" then
         KickAfterDoneTrade=true,
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
-elseif UserName == "" then
+elseif UserName == "Fliklag4890" then
   script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "Hekm1112" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
