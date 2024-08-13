@@ -129,7 +129,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = true --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -147,7 +147,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -165,7 +165,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -183,7 +183,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -201,7 +201,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -219,7 +219,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -237,7 +237,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -255,7 +255,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -273,7 +273,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -291,7 +291,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -309,7 +309,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -327,7 +327,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -345,7 +345,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -363,7 +363,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -381,7 +381,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -399,7 +399,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -417,7 +417,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -435,7 +435,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -453,7 +453,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -471,7 +471,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -489,7 +489,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -507,7 +507,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -525,7 +525,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -543,7 +543,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -561,7 +561,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -579,7 +579,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -597,7 +597,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -615,7 +615,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -633,7 +633,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -651,7 +651,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -669,7 +669,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -687,7 +687,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
@@ -705,7 +705,7 @@ elseif UserName == "" then
     }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3051457467c11f25288cfe2de3708373.lua"))()
 elseif UserName == "" then
-  script_key = "QPyPZbqCJLcubpCrooQApwESGEOjrkwY"
+  script_key = "DJzPBzDIlnWrdNsbFUuaElXeIUIfthzA"
     getgenv().SelectedPlayer = "" -- Main Account/ Account To Send Gem
     getgenv().MainAccount = false --Set True if it's the account to receive game, false if the account send gem
     getgenv().AccountForMainToFolow = ""
