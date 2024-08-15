@@ -33,9 +33,9 @@ getgenv().Config = {
     },
     Scripts = { 
         -- Please make it a raw link 
-        ["Script 1"] = "https://raw.githubusercontent.com/Dimotrix/dsgsdgsdg/main/34346ff",
-        ["Script 2"] = "https://raw.githubusercontent.com/Dimotrix/dsgsdgsdg/main/34vbdfg",
-        ["Script 3"] = "https://raw.githubusercontent.com/Dimotrix/dsgsdgsdg/main/asdasd",
+        ["Script 1"] = "https://raw.githubusercontent.com/Dimotrix/34334fre/main/sad",
+        ["Script 2"] = "https://raw.githubusercontent.com/Dimotrix/34334fre/main/dscc",
+        ["Script 3"] = "https://raw.githubusercontent.com/Dimotrix/34334fre/main/dac",
     }
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Pauleeeee1/RobloxManagerStuff/main/Multi%20Execute"))()
