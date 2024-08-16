@@ -33,9 +33,9 @@ getgenv().Config = {
     },
     Scripts = { 
         -- Please make it a raw link 
-        ["Script 1"] = "",
-        ["Script 2"] = "",
-        ["Script 3"] = "",
+        ["Script 1"] = "https://raw.githubusercontent.com/Dimotrix/34334fre/main/sad",
+        ["Script 2"] = "https://raw.githubusercontent.com/Dimotrix/34334fre/main/dac",
+        ["Script 3"] = "https://raw.githubusercontent.com/Dimotrix/34334fre/main/dscc",
         ["Script 4"] = "",
         ["Script 5"] = "",
         ["Script 6"] = "",
