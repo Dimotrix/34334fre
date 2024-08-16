@@ -1,0 +1,48 @@
+getgenv().Config = {
+    Accounts = {
+        { ID = 5587782107, script = 1 },
+        { ID = 5587780107, script = 2 },
+        { ID = 5587784110, script = 3 },
+        { ID = 5587782154, script = 4 },
+        { ID = 5587784080, script = 5 },
+        { ID = 5587784135, script = 6 },
+        { ID = 5587786115, script = 7 },
+        { ID = 5587786117, script = 8 },
+        { ID = 5587796455, script = 9 },
+        { ID = 5587796459, script = 10 },
+        { ID = 5579641310, script = 11 },
+        { ID = 5579634543, script = 12 },
+        { ID = 5579619313, script = 13 },
+        { ID = 5579615420, script = 14 },
+        { ID = 5587788238, script = 15 },
+        { ID = 5587786301, script = 16 },
+        { ID = 5587788326, script = 17 },
+        { ID = 5587788333, script = 18 },
+        { ID = 5587794419, script = 19 },
+        { ID = 5587794501, script = 20 }
+    },
+    Scripts = { 
+        -- Please make it a raw link 
+        ["Script 1"] = "https://raw.githubusercontent.com/Dimotrix/34334fre/main/sad",
+        ["Script 2"] = "https://raw.githubusercontent.com/Dimotrix/34334fre/main/dac",
+        ["Script 3"] = "https://raw.githubusercontent.com/Dimotrix/34334fre/main/dscc",
+        ["Script 4"] = "https://raw.githubusercontent.com/Dimotrix/eeee/main/1",
+        ["Script 5"] = "https://raw.githubusercontent.com/Dimotrix/eeee/main/11",
+        ["Script 6"] = "https://raw.githubusercontent.com/Dimotrix/eeee/main/111",
+        ["Script 7"] = "https://raw.githubusercontent.com/Dimotrix/eeee/main/1111",
+        ["Script 8"] = "https://raw.githubusercontent.com/Dimotrix/eeee/main/111111",
+        ["Script 9"] = "https://raw.githubusercontent.com/Dimotrix/eeee/main/2",
+        ["Script 10"] = "https://raw.githubusercontent.com/Dimotrix/eeee/main/22",
+        ["Script 11"] = "https://raw.githubusercontent.com/Dimotrix/eeee/main/222",
+        ["Script 12"] = "https://raw.githubusercontent.com/Dimotrix/eeee/main/2222",
+        ["Script 13"] = "https://raw.githubusercontent.com/Dimotrix/eeee/main/22222",
+        ["Script 14"] = "https://raw.githubusercontent.com/Dimotrix/eeee/main/222222",
+        ["Script 15"] = "https://raw.githubusercontent.com/Dimotrix/eeee/main/2222222",
+        ["Script 16"] = "https://raw.githubusercontent.com/Dimotrix/eeee/main/3",
+        ["Script 17"] = "https://raw.githubusercontent.com/Dimotrix/eeee/main/32323",
+        ["Script 18"] = "https://raw.githubusercontent.com/Dimotrix/eeee/main/33",
+        ["Script 19"] = "https://raw.githubusercontent.com/Dimotrix/eeee/main/333",
+        ["Script 20"] = "https://raw.githubusercontent.com/Dimotrix/eeee/main/3333",
+    }
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Pauleeeee1/RobloxManagerStuff/main/Multi%20Execute"))()
